@@ -45,11 +45,15 @@ h1 {
 	padding: 1mm;
 	color: grey;
 }
-
-.body-right > p {
+input {
+	padding-top: 20px;
+    border: none;
+    background: transparent;
 	border-bottom: 1px solid grey;
 	font-style: normal;
 	font-family: "Patrick Hand", cursive;
+	font-size: 100%;
+	color: gray;
 }
 
 .postcard-footer {
